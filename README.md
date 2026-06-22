@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
