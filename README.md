@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
