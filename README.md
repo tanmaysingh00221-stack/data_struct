@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
