@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -64,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
