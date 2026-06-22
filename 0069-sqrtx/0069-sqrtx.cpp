@@ -1,20 +1,17 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if(x==0){
-            return 0;
-        }
-        for(double i=0;i<=x;i++){
-            double check=x/i;
-            if(check==i){
-                return i;
+        int root=1;
+        //bool a=true;
+        while(true){
+            if(root==x/root){
+                return root;
             }
-            if(check<i){
-                return i-1;
+            if(root>x/root){
+                return root-1;
             }
-
-
+            root++;
         }
-        return 1;
+        return -1;
     }
 };
