@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanmaysingh00221-stack/data_struct/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
